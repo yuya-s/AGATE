@@ -1,4 +1,4 @@
-ROOT_PATH = "/AMiner/Reddit"
+ROOT_PATH = "/AGATE/Reddit"
 L = 3
 ratio_test = 0.1
 ratio_valid = 0.2
