@@ -1,12 +1,14 @@
 # AGATE
-Paper link : [(Overleaf) Holistic Prediction on a Time-Evolving Attributed Graph](https://www.overleaf.com/project/612c5dec6ec863e1ac212392)
+This repository contains code necessary to run the AGATE.
+See our paper for details on the algorithm.
+**Paper link**: [Holistic Prediction on a Time-Evolving Attributed Graph](https://www.overleaf.com/project/612c5dec6ec863e1ac212392)
 
-## Datasets
+## Dataset
 We created graph data from three datasets; [NBA](https://www.basketball-reference.com), [Reddit](http://snap.stanford.edu/data/soc-RedditHyperlinks.html), and [AMiner](https://www.aminer.cn/citation).  
 Time-evolving attributed graphs for AGATE can be downloaded from [here](https://drive.google.com/drive/folders/1LM5_fOi__hHCpRAXJjTi445tTRYhRsNY?usp=sharing).  
 Unzip graph.zip and place it under [DATASET]/data/ to run it.
 
-## Codes
+## Code
 You can find source code that works with each dataset in the AMiner, NBA, and Reddit.  
 You can run AGATE by executing the scripts in the order described in run.sh  
 All hyperparameters are described in setting_param.py.  
