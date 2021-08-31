@@ -1,5 +1,5 @@
 # AGATE
-This repository contains code necessary to run the AGATE.  
+This repository contains the code necessary to run the AGATE.  
 See our report for details on the algorithm and the result.  
 **Report link**: [Holistic Prediction on a Time-Evolving Attributed Graph](https://www.overleaf.com/project/612c5dec6ec863e1ac212392)
 
